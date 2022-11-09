@@ -1,0 +1,33 @@
+
+
+#formstart {
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:200%;
+	font-weight:bold;
+}
+
+.outline3 {
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:150%;
+	font-weight:bold;
+}
+
+.outline4 {
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:120%;
+	font-weight:bold;
+}
+
+.instructions {
+    color: red;
+    font-size: 150%;
+}
+
+.spkrques {
+    padding: 5px;
+}
+
+
+.suggestform {
+    padding: 5px;
+}
